@@ -1,2 +1,3 @@
 # hello_world
 my first repository
+hi guys,i am an android programmer and i like doing this, i know there are many shrewd programmer here ...
